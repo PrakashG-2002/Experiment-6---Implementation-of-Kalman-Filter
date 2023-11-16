@@ -16,9 +16,10 @@ Store the estimated state in a list. </br>
 Plot the true and estimated positions.</br>
 ## Program:
 ```
-Name:PRAKASH P
-Ref.no: 212221040126
-
+DEVELOPED BY: P. PRAKASH
+              212221040126
+```
+```
 import numpy as np
 
 class KalmanFilter:
